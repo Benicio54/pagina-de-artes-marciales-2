@@ -64,10 +64,13 @@ p {
 }
 
 img {
-  width: 100%;
-  height: auto;
+  width: 70%;
+  height: 70%;
   object-fit: cover;
   border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section {
