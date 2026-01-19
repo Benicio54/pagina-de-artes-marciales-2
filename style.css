@@ -69,6 +69,8 @@ img {
   height: 80%;
   object-fit: cover;
   border-radius: 8px;
+  display: block;
+  margin: auto;
 }
 
 section {
